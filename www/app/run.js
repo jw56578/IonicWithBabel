@@ -1,6 +1,9 @@
  
 export default function config($ionicPlatform){
     $ionicPlatform.ready(function() {
+        alert('time to redirect');
+        location.href="http://www.google.com";
+        return;
         if(window.cordova && window.cordova.plugins.Keyboard) {
           // Hide the accessory bar by default (remove this to show the accessory bar above the keyboard
           // for form inputs)
