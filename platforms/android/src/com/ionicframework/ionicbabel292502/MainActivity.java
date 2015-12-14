@@ -17,7 +17,7 @@
        under the License.
  */
 
-package com.ionicframework.trainuntamed292502;
+package com.ionicframework.ionicbabel292502;
 
 import android.os.Bundle;
 import org.apache.cordova.*;
